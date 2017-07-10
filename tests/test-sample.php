@@ -2,7 +2,7 @@
 /**
  * Class SampleTest
  *
- * @package Cloudinary_Integration
+ * @package Cloudinary_WP_Integration
  */
 
 /**

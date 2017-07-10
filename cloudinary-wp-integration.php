@@ -7,9 +7,9 @@
  * Author URI:      www.ncompass.co.uk
  * Text Domain:     clouinary-wp-integration
  * Domain Path:     /languages
- * Version:         1.0.0
+ * Version:         1.0.1
  *
- * @package         Cloudinary_Integration
+ * @package         Cloudinary_WP_Integration
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

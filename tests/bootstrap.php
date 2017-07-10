@@ -2,7 +2,7 @@
 /**
  * PHPUnit bootstrap file
  *
- * @package Cloudinary_Integration
+ * @package Cloudinary_WP_Integration
  */
 
 $_tests_dir = getenv( 'WP_TESTS_DIR' );
