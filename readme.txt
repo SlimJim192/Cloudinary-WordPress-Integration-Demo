@@ -14,4 +14,4 @@ This plugin is an experiment to demonstrate integrating <a href="http://cloudina
  0.1.0 - Initial demo
  1.0.0 - NComp@ss Rebrand/Fork
  1.0.1 - Added q_auto and f_auto
- 1.0.2 - Added github updater line
+ 1.0.2 - Added github updater line  
