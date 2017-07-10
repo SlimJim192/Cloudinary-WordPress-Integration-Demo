@@ -167,7 +167,7 @@ class Cloudinary_WP_Integration {
 				);
 			} elseif ( is_array( $size ) ) {
 				$downsize = array(
-					str_replace( '/image/upload', "/image/upload/w_$size[0],h_$size[1],c_limit", $metadata['cloudinary_data']['secure_url'] ),
+					str_replace( '/image/upload', "/image/upload/w_$size[0],h_$size[1],c_limit,f_auto,q_auto", $metadata['cloudinary_data']['secure_url'] ),
 					$size[0],
 					$size[1],
 					true,
