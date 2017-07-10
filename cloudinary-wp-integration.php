@@ -1,11 +1,11 @@
 <?php
 /**
- * Plugin Name:     Cloudinary Integration Demo
+ * Plugin Name:     Cloudinary WP Integration
  * Plugin URI:      https://github.com/SlimJim192/cloudinary-wordpress-integration
  * Description:     Cloudinary Integration - Ncompass
- * Author:          Jeremy Stone - Ncompass
+ * Author:          NComp@ss
  * Author URI:      www.ncompass.co.uk
- * Text Domain:     cloudinary-integration-ncompass
+ * Text Domain:     clouinary-wp-integration
  * Domain Path:     /languages
  * Version:         0.1.1
  *
