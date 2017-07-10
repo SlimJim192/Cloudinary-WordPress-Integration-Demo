@@ -31,7 +31,7 @@ module.exports = function( grunt ) {
 				options: {
 					domainPath: '/languages',
 					mainFile: 'cloudinary-wp-integration.php',
-					potFilename: 'cloudinary--wp-integration.pot',
+					potFilename: 'cloudinary-wp-integration.pot',
 					potHeaders: {
 						poedit: true,
 						'x-poedit-keywordslist': true
