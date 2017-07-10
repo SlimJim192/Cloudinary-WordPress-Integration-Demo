@@ -1,7 +1,7 @@
 
 {
   "name": "cloudinary-wp-integration",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "Gruntfile.js",
   "author": "NComp@ss",
   "devDependencies": {

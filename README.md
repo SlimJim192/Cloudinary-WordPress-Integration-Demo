@@ -3,7 +3,7 @@
 **Tags:** media, images  
 **Requires at least:** 4.5  
 **Tested up to:** 4.6.1  
-**Stable tag:** 1.0.2  
+**Stable tag:** 1.0.3  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -15,3 +15,4 @@ This plugin is an experiment to demonstrate integrating <a href="http://cloudina
  1.0.0 - NComp@ss Rebrand/Fork  
  1.0.1 - Added q_auto and f_auto  
  1.0.2 - Added github updater line  
+ 1.0.3 - Updated cloudinary_php   
