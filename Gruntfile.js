@@ -9,7 +9,7 @@ module.exports = function( grunt ) {
 
 		addtextdomain: {
 			options: {
-				textdomain: 'cloudinary-integration',
+				textdomain: 'cloudinary-wp-integration',
 			},
 			target: {
 				files: {
@@ -30,8 +30,8 @@ module.exports = function( grunt ) {
 			target: {
 				options: {
 					domainPath: '/languages',
-					mainFile: 'cloudinary-integration.php',
-					potFilename: 'cloudinary-integration.pot',
+					mainFile: 'cloudinary-wp-integration.php',
+					potFilename: 'cloudinary--wp-integration.pot',
 					potHeaders: {
 						poedit: true,
 						'x-poedit-keywordslist': true
