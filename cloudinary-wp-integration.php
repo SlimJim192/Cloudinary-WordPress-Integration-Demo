@@ -7,7 +7,8 @@
  * Author URI:      www.ncompass.co.uk
  * Text Domain:     clouinary-wp-integration
  * Domain Path:     /languages
- * Version:         1.0.1
+ * Version:         1.0.2
+ * GitHub Plugin URI: https://github.com/SlimJim192/cloudinary-wordpress-integration
  *
  * @package         Cloudinary_WP_Integration
  */
